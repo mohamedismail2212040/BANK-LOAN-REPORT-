@@ -178,3 +178,15 @@ This Bank Loan Analysis project delivers a complete end-to-end business intellig
 ## Author
 
 Mohamed Ismail D
+
+
+## Dashboard Preview
+
+### Dashboard 1: Summary
+![Summary](1.%20BANK%20LOAM%20SUMMARY.png)
+
+### Dashboard 2: Overview
+![Overview](2.%20BANK%20LOAN%20OVERVIEW.png)
+
+### Dashboard 3: Details
+![Details](3.%20BANK%20LOAN%20DETAILS.png)

@@ -175,10 +175,6 @@ This Bank Loan Analysis project delivers a complete end-to-end business intellig
 
 ---
 
-## Author
-
-Mohamed Ismail D
-
 
 ## Dashboard Preview
 
